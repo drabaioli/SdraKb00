@@ -1,0 +1,9 @@
+[submodule "submodules/MX_Alps_Hybrid.pretty"]
+	path = submodules/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "submodules/random-keyboard-parts.pretty"]
+	path = submodules/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "submodules/Type-C.pretty"]
+	path = submodules/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git

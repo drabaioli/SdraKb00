@@ -2699,6 +2699,88 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers hide)
 			(pin_names
@@ -3733,7 +3815,7 @@
 		(uuid "010153dc-b620-4dee-b35f-8ab4f62afb19")
 	)
 	(junction
-		(at 148.59 181.61)
+		(at 204.47 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "08b46d82-e846-46e7-85c2-09ed612e5226")
@@ -4302,7 +4384,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 171.45) (xy 148.59 173.99)
+			(xy 204.47 151.13) (xy 204.47 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4632,7 +4714,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 181.61) (xy 135.89 186.69)
+			(xy 191.77 161.29) (xy 191.77 166.37)
 		)
 		(stroke
 			(width 0)
@@ -5022,7 +5104,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 179.07) (xy 148.59 181.61)
+			(xy 204.47 158.75) (xy 204.47 161.29)
 		)
 		(stroke
 			(width 0)
@@ -5322,7 +5404,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 181.61) (xy 148.59 181.61)
+			(xy 201.93 161.29) (xy 204.47 161.29)
 		)
 		(stroke
 			(width 0)
@@ -5662,7 +5744,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 181.61) (xy 157.48 181.61)
+			(xy 204.47 161.29) (xy 213.36 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6021,6 +6103,18 @@
 		(uuid "fe2e85cc-993c-4fd7-a734-20e4500c7da9")
 	)
 	(rectangle
+		(start 132.08 146.05)
+		(end 176.53 167.64)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 3070354a-03ef-43ff-88f4-7e4f694ae81e)
+	)
+	(rectangle
 		(start 97.79 21.59)
 		(end 231.14 95.25)
 		(stroke
@@ -6069,8 +6163,8 @@
 		(uuid 6778672a-7160-43f8-a2a0-9bb479e2e4db)
 	)
 	(rectangle
-		(start 130.81 163.83)
-		(end 167.64 194.31)
+		(start 186.69 143.51)
+		(end 223.52 173.99)
 		(stroke
 			(width 0)
 			(type default)
@@ -6138,13 +6232,23 @@
 	)
 	(text "Reset switch"
 		(exclude_from_sim no)
-		(at 136.652 163.068 0)
+		(at 192.532 142.748 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
 		(uuid "6ab51002-72ea-4f7e-8e71-4d1d0b2ba7bb")
+	)
+	(text "Mounting holes"
+		(exclude_from_sim no)
+		(at 139.192 145.288 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "73fb7135-0132-4ee1-a005-22eed0c613a3")
 	)
 	(text "SPI header"
 		(exclude_from_sim no)
@@ -6550,7 +6654,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 157.48 181.61 0)
+		(at 213.36 161.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6560,7 +6664,7 @@
 		)
 		(uuid "4f7a8016-cf17-4c2c-9775-39f632c18237")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.2103 181.61 0)
+			(at 222.0903 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7152,6 +7256,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 149.86 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06655d39-142b-4599-8d95-f31de70576b5")
+		(property "Reference" "H1"
+			(at 138.43 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SdraKb00"
+				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 275.59 63.5 0)
 		(unit 1)
@@ -7219,7 +7387,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 148.59 171.45 0)
+		(at 204.47 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7228,7 +7396,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ab31a3a-1410-456e-958b-c87f8fb4a234")
 		(property "Reference" "#PWR09"
-			(at 148.59 175.26 0)
+			(at 204.47 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7237,7 +7405,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 148.59 166.37 0)
+			(at 204.47 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7245,7 +7413,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 171.45 0)
+			(at 204.47 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7254,7 +7422,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 171.45 0)
+			(at 204.47 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7263,7 +7431,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 148.59 171.45 0)
+			(at 204.47 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7353,6 +7521,70 @@
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
 					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 162.56 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0bc97738-2437-4297-a6b6-caed787e154b")
+		(property "Reference" "H3"
+			(at 138.43 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 163.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SdraKb00"
+				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -7706,6 +7938,70 @@
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
 					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 158.75 149.86 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22e792d2-a18e-4fec-891a-4e602edb4984")
+		(property "Reference" "H2"
+			(at 161.29 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 161.29 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 158.75 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SdraKb00"
+				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -10794,7 +11090,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 148.59 176.53 0)
+		(at 204.47 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10803,7 +11099,7 @@
 		(fields_autoplaced yes)
 		(uuid "85b54ec7-2a71-462a-9b2c-ba1ceeac64c1")
 		(property "Reference" "R4"
-			(at 151.13 175.2599 0)
+			(at 207.01 154.9399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10812,7 +11108,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 151.13 177.7999 0)
+			(at 207.01 157.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10821,7 +11117,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 176.53 0)
+			(at 204.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10830,7 +11126,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 176.53 0)
+			(at 204.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10839,7 +11135,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 148.59 176.53 0)
+			(at 204.47 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13844,7 +14140,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 140.97 181.61 0)
+		(at 196.85 161.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13853,7 +14149,7 @@
 		(fields_autoplaced yes)
 		(uuid "d855dbd3-5d8e-47a9-8ec2-ad7dc598dbf0")
 		(property "Reference" "SW1"
-			(at 140.97 173.99 0)
+			(at 196.85 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13861,7 +14157,7 @@
 			)
 		)
 		(property "Value" "Reset_SW"
-			(at 140.97 176.53 0)
+			(at 196.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13869,7 +14165,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 176.53 0)
+			(at 196.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13878,7 +14174,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 176.53 0)
+			(at 196.85 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13887,7 +14183,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 140.97 181.61 0)
+			(at 196.85 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14446,7 +14742,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 135.89 186.69 0)
+		(at 191.77 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14455,7 +14751,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5226d4f-8362-428d-adae-d89359f4b626")
 		(property "Reference" "#PWR016"
-			(at 135.89 193.04 0)
+			(at 191.77 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14464,7 +14760,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 191.77 0)
+			(at 191.77 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14472,7 +14768,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 186.69 0)
+			(at 191.77 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14481,7 +14777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 186.69 0)
+			(at 191.77 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14490,7 +14786,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 186.69 0)
+			(at 191.77 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14859,6 +15155,70 @@
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
 					(reference "#PWR015")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 158.75 162.56 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3d12a25-0e6a-42b0-b199-52681d0f5c5c")
+		(property "Reference" "H4"
+			(at 161.29 161.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 161.29 163.8299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 158.75 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "SdraKb00"
+				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
+					(reference "H4")
 					(unit 1)
 				)
 			)

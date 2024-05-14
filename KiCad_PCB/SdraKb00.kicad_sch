@@ -7139,7 +7139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 332.74 113.03 0)
 			(effects
 				(font
@@ -7283,7 +7283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2mm"
 			(at 135.89 149.86 0)
 			(effects
 				(font
@@ -7476,7 +7476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 332.74 44.45 0)
 			(effects
 				(font
@@ -7554,7 +7554,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2mm"
 			(at 135.89 162.56 0)
 			(effects
 				(font
@@ -7615,7 +7615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 360.68 78.74 0)
 			(effects
 				(font
@@ -7835,7 +7835,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 123.19 114.3 0)
 			(effects
 				(font
@@ -7971,7 +7971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2mm"
 			(at 158.75 149.86 0)
 			(effects
 				(font
@@ -8032,7 +8032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 295.91 67.31 0)
 			(effects
 				(font
@@ -8235,7 +8235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 295.91 101.6 0)
 			(effects
 				(font
@@ -8441,7 +8441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 172.72 48.26 90)
 			(effects
 				(font
@@ -8529,7 +8529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 123.19 48.26 90)
 			(effects
 				(font
@@ -8681,7 +8681,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 204.47 40.64 0)
 			(effects
 				(font
@@ -8748,7 +8748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SOT143B"
 			(at 90.17 175.26 0)
 			(effects
 				(font
@@ -8824,7 +8824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 123.19 88.9 90)
 			(effects
 				(font
@@ -8910,7 +8910,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 			(at 91.44 149.86 0)
 			(effects
 				(font
@@ -9045,7 +9045,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Type-C:HRO-TYPE-C-31-M-12-HandSoldering"
 			(at 45.72 162.56 0)
 			(effects
 				(font
@@ -9145,7 +9145,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 323.85 67.31 0)
 			(effects
 				(font
@@ -9281,7 +9281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 88.9 90)
 			(effects
 				(font
@@ -9630,7 +9630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 360.68 113.03 0)
 			(effects
 				(font
@@ -9837,7 +9837,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 267.97 33.02 0)
 			(effects
 				(font
@@ -9904,7 +9904,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 267.97 67.31 0)
 			(effects
 				(font
@@ -10105,7 +10105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 332.74 78.74 0)
 			(effects
 				(font
@@ -10249,7 +10249,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 154.94 124.46 0)
 			(effects
 				(font
@@ -10319,7 +10319,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:Reset_Pretty-Mask"
 			(at 201.93 119.38 90)
 			(effects
 				(font
@@ -10398,7 +10398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 304.8 44.45 0)
 			(effects
 				(font
@@ -10473,7 +10473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 276.86 78.74 0)
 			(effects
 				(font
@@ -10551,7 +10551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 172.72 88.9 90)
 			(effects
 				(font
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 304.8 113.03 0)
 			(effects
 				(font
@@ -10777,7 +10777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 323.85 33.02 0)
 			(effects
 				(font
@@ -10847,7 +10847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 213.36 38.1 0)
 			(effects
 				(font
@@ -10914,7 +10914,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 351.79 101.6 0)
 			(effects
 				(font
@@ -11116,7 +11116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 204.47 156.21 0)
 			(effects
 				(font
@@ -11252,7 +11252,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 100.33 114.3 0)
 			(effects
 				(font
@@ -11385,7 +11385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 204.47 45.72 0)
 			(effects
 				(font
@@ -11452,7 +11452,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 31.75 72.39 0)
 			(effects
 				(font
@@ -11654,7 +11654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 135.89 114.3 0)
 			(effects
 				(font
@@ -11792,7 +11792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 123.19 68.58 90)
 			(effects
 				(font
@@ -11880,7 +11880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 213.36 48.26 0)
 			(effects
 				(font
@@ -11947,7 +11947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 304.8 78.74 0)
 			(effects
 				(font
@@ -12088,7 +12088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 351.79 67.31 0)
 			(effects
 				(font
@@ -12158,7 +12158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 48.26 90)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 88.9 90)
 			(effects
 				(font
@@ -12400,7 +12400,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -12468,7 +12468,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 81.28 90.17 0)
 			(effects
 				(font
@@ -12535,7 +12535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 295.91 33.02 0)
 			(effects
 				(font
@@ -12604,7 +12604,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 66.04 173.99 0)
 			(effects
 				(font
@@ -12671,7 +12671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 276.86 113.03 0)
 			(effects
 				(font
@@ -12813,7 +12813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 104.14 163.83 0)
 			(effects
 				(font
@@ -12883,7 +12883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 172.72 68.58 90)
 			(effects
 				(font
@@ -13034,7 +13034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" ""
 			(at 276.86 44.45 0)
 			(effects
 				(font
@@ -13177,7 +13177,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
 			(at 163.83 120.65 0)
 			(effects
 				(font
@@ -13321,7 +13321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 171.45 124.46 0)
 			(effects
 				(font
@@ -13388,7 +13388,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 323.85 101.6 0)
 			(effects
 				(font
@@ -13524,7 +13524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 68.58 90)
 			(effects
 				(font
@@ -13612,7 +13612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 68.58 90)
 			(effects
 				(font
@@ -13765,7 +13765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 73.66 173.99 0)
 			(effects
 				(font
@@ -13832,7 +13832,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 267.97 101.6 0)
 			(effects
 				(font
@@ -13899,7 +13899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 104.14 166.37 0)
 			(effects
 				(font
@@ -14164,7 +14164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
 			(at 196.85 156.21 0)
 			(effects
 				(font
@@ -14298,7 +14298,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 256.54 36.83 0)
 			(effects
 				(font
@@ -15034,7 +15034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 156.21 48.26 90)
 			(effects
 				(font
@@ -15188,7 +15188,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2mm"
 			(at 158.75 162.56 0)
 			(effects
 				(font

@@ -3885,12 +3885,6 @@
 		(uuid "22984562-722f-485b-ab5c-e8bc639f59d7")
 	)
 	(junction
-		(at 267.97 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "237063aa-9687-450a-a8f7-0dce2bef15a0")
-	)
-	(junction
 		(at 123.19 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3907,12 +3901,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25c954af-fafd-4660-9ec9-ad9185f47eb6")
-	)
-	(junction
-		(at 323.85 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "27797a21-8988-40f0-9d71-c4eddefc526a")
 	)
 	(junction
 		(at 209.55 50.8)
@@ -3951,12 +3939,6 @@
 		(uuid "3f867e0b-d5ba-4e24-ae1c-14490e16c9a0")
 	)
 	(junction
-		(at 295.91 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "413cf48a-2d0e-45ad-b24a-3e400ee1d5bd")
-	)
-	(junction
 		(at 96.52 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3987,18 +3969,6 @@
 		(uuid "4a2e8316-bbd9-4745-bed3-cf46e6d66f39")
 	)
 	(junction
-		(at 323.85 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5368ce27-5c33-495d-9ab0-e6396f98fc51")
-	)
-	(junction
-		(at 323.85 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5481934a-473b-4a65-ad78-232934187dd2")
-	)
-	(junction
 		(at 73.66 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4027,12 +3997,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60e93c4a-2f78-418e-bdc8-1639e1152474")
-	)
-	(junction
-		(at 295.91 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62154104-f8aa-430f-8d5f-45405001d593")
 	)
 	(junction
 		(at 111.76 111.76)
@@ -4093,12 +4057,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "833ecdd1-9ac4-4bf1-937b-3a5b9ce61abe")
-	)
-	(junction
-		(at 351.79 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "83606762-73ad-4396-9a24-418ea71fa7dd")
 	)
 	(junction
 		(at 331.47 113.03)
@@ -4167,12 +4125,6 @@
 		(uuid "af612a32-ee4b-493c-bc16-f878315c17b6")
 	)
 	(junction
-		(at 267.97 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b736dd9d-ed9f-464b-b913-944485bf78ec")
-	)
-	(junction
 		(at 50.8 29.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4209,12 +4161,6 @@
 		(uuid "c88249a4-c9ba-44ae-b7c5-1b7f4057d239")
 	)
 	(junction
-		(at 295.91 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ca434abe-c288-421f-a2f9-3b9d8aa2d276")
-	)
-	(junction
 		(at 50.8 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4225,12 +4171,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "debe5f48-9faf-4408-8be5-616ba91828f2")
-	)
-	(junction
-		(at 267.97 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e0012be3-8f8b-4b8e-87f9-bcb8fdcfb217")
 	)
 	(junction
 		(at 123.19 50.8)
@@ -4267,12 +4207,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e94f83de-2de4-4241-a5ef-8f788627c6a1")
-	)
-	(junction
-		(at 351.79 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e9fc29cc-6bfb-4a53-8981-7a13bf0b6563")
 	)
 	(junction
 		(at 144.78 40.64)
@@ -4367,16 +4301,6 @@
 	(no_connect
 		(at 68.58 54.61)
 		(uuid "feedf2ee-43f6-433f-a158-9e833babf13d")
-	)
-	(wire
-		(pts
-			(xy 323.85 104.14) (xy 323.85 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "034ebc21-1910-4057-ae14-fc153a7eb0b1")
 	)
 	(wire
 		(pts
@@ -4520,7 +4444,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 105.41) (xy 295.91 113.03)
+			(xy 295.91 104.14) (xy 295.91 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4710,7 +4634,7 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 104.14) (xy 351.79 105.41)
+			(xy 351.79 104.14) (xy 351.79 113.03)
 		)
 		(stroke
 			(width 0)
@@ -4750,7 +4674,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 36.83) (xy 267.97 44.45)
+			(xy 267.97 35.56) (xy 267.97 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4760,7 +4684,7 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 69.85) (xy 351.79 71.12)
+			(xy 351.79 69.85) (xy 351.79 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4900,26 +4824,6 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 35.56) (xy 323.85 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4446151f-89d6-4856-8ebd-58684f893d0f")
-	)
-	(wire
-		(pts
-			(xy 295.91 36.83) (xy 295.91 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "449e22e1-904c-4b21-8a57-89d73dce37a7")
-	)
-	(wire
-		(pts
 			(xy 67.31 166.37) (xy 97.79 166.37)
 		)
 		(stroke
@@ -4970,7 +4874,7 @@
 	)
 	(wire
 		(pts
-			(xy 295.91 69.85) (xy 295.91 71.12)
+			(xy 295.91 69.85) (xy 295.91 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5040,7 +4944,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 36.83) (xy 323.85 44.45)
+			(xy 323.85 35.56) (xy 323.85 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5120,7 +5024,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 69.85) (xy 323.85 71.12)
+			(xy 323.85 69.85) (xy 323.85 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5167,16 +5071,6 @@
 			(type default)
 		)
 		(uuid "617a2f93-a299-4e1f-a94f-71af5366aec7")
-	)
-	(wire
-		(pts
-			(xy 295.91 104.14) (xy 295.91 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61f99bb2-92cf-4564-b991-ca057678349d")
 	)
 	(wire
 		(pts
@@ -5280,7 +5174,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 105.41) (xy 267.97 113.03)
+			(xy 267.97 104.14) (xy 267.97 113.03)
 		)
 		(stroke
 			(width 0)
@@ -5297,26 +5191,6 @@
 			(type default)
 		)
 		(uuid "6e36ed35-65fb-4196-ac4a-41921a80c163")
-	)
-	(wire
-		(pts
-			(xy 323.85 71.12) (xy 323.85 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e5ef111-f08d-4151-b809-1bf4de3b7dec")
-	)
-	(wire
-		(pts
-			(xy 267.97 71.12) (xy 267.97 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6eefb763-806a-4658-8af1-e5b26815941b")
 	)
 	(wire
 		(pts
@@ -5480,16 +5354,6 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 35.56) (xy 267.97 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "80d3a400-104e-466f-9405-b37487b45a98")
-	)
-	(wire
-		(pts
 			(xy 139.7 71.12) (xy 156.21 71.12)
 		)
 		(stroke
@@ -5537,16 +5401,6 @@
 			(type default)
 		)
 		(uuid "880b518f-ab40-46d6-8e2d-dd6b94d217a0")
-	)
-	(wire
-		(pts
-			(xy 267.97 104.14) (xy 267.97 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a004578-eb7f-49f6-9b66-ca391cdabf42")
 	)
 	(wire
 		(pts
@@ -5607,16 +5461,6 @@
 			(type default)
 		)
 		(uuid "94c1befb-633e-41f8-8d5d-277b3ec1dfaf")
-	)
-	(wire
-		(pts
-			(xy 295.91 71.12) (xy 295.91 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "954e3c53-edb2-4792-9266-a325cd55114e")
 	)
 	(wire
 		(pts
@@ -5770,7 +5614,7 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 105.41) (xy 323.85 113.03)
+			(xy 323.85 104.14) (xy 323.85 113.03)
 		)
 		(stroke
 			(width 0)
@@ -5850,17 +5694,7 @@
 	)
 	(wire
 		(pts
-			(xy 351.79 71.12) (xy 351.79 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc19035d-f18a-4611-a1cd-1de91deb7e4f")
-	)
-	(wire
-		(pts
-			(xy 295.91 35.56) (xy 295.91 36.83)
+			(xy 295.91 35.56) (xy 295.91 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5997,16 +5831,6 @@
 			(type default)
 		)
 		(uuid "ce91a50d-478a-4fce-a546-5389977a1a38")
-	)
-	(wire
-		(pts
-			(xy 351.79 105.41) (xy 351.79 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cea19575-8f20-4314-8e81-1b191745c1eb")
 	)
 	(wire
 		(pts
@@ -6190,7 +6014,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 69.85) (xy 267.97 71.12)
+			(xy 267.97 69.85) (xy 267.97 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7934,7 +7758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 275.59 71.12 0)
 			(effects
 				(font
@@ -8008,7 +7832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 275.59 36.83 0)
 			(effects
 				(font
@@ -8335,7 +8159,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25bab5dd-3088-470e-a495-a4e24251d3fd")
-		(property "Reference" "C7"
+		(property "Reference" "Crgb11"
 			(at 292.862 62.484 0)
 			(effects
 				(font
@@ -8387,7 +8211,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C7")
+					(reference "Crgb11")
 					(unit 1)
 				)
 			)
@@ -8472,7 +8296,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2dd9df03-8964-42fd-9c0e-6fc1c11f8921")
-		(property "Reference" "C12"
+		(property "Reference" "Crgb21"
 			(at 292.862 96.774 0)
 			(effects
 				(font
@@ -8524,7 +8348,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C12")
+					(reference "Crgb21")
 					(unit 1)
 				)
 			)
@@ -8732,7 +8556,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 331.47 105.41 0)
 			(effects
 				(font
@@ -9320,7 +9144,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "405a3709-d37f-4123-bc5f-ad92dfc4b80d")
-		(property "Reference" "C8"
+		(property "Reference" "Crgb12"
 			(at 320.802 62.484 0)
 			(effects
 				(font
@@ -9372,7 +9196,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C8")
+					(reference "Crgb12")
 					(unit 1)
 				)
 			)
@@ -9892,7 +9716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 303.53 71.12 0)
 			(effects
 				(font
@@ -10081,7 +9905,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54b3edb6-cd3f-4264-bc67-7745f07e2f8d")
-		(property "Reference" "C1"
+		(property "Reference" "Crgb00"
 			(at 264.922 28.194 0)
 			(effects
 				(font
@@ -10133,7 +9957,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C1")
+					(reference "Crgb00")
 					(unit 1)
 				)
 			)
@@ -10148,7 +9972,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "558a9d7c-2c09-444d-b542-856fb028699a")
-		(property "Reference" "C6"
+		(property "Reference" "Crgb10"
 			(at 264.922 62.484 0)
 			(effects
 				(font
@@ -10200,7 +10024,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C6")
+					(reference "Crgb10")
 					(unit 1)
 				)
 			)
@@ -10516,7 +10340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 331.47 71.12 0)
 			(effects
 				(font
@@ -10727,7 +10551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "790ff833-7c89-474b-93f2-2a020b8701ac")
-		(property "Reference" "C3"
+		(property "Reference" "Crgb02"
 			(at 320.802 28.194 0)
 			(effects
 				(font
@@ -10779,7 +10603,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C3")
+					(reference "Crgb02")
 					(unit 1)
 				)
 			)
@@ -10864,7 +10688,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7efe51a2-cfd9-4f6b-8f06-40d88c12f05d")
-		(property "Reference" "C14"
+		(property "Reference" "Crgb23"
 			(at 348.742 96.774 0)
 			(effects
 				(font
@@ -10916,7 +10740,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C14")
+					(reference "Crgb23")
 					(unit 1)
 				)
 			)
@@ -11622,7 +11446,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 359.41 71.12 0)
 			(effects
 				(font
@@ -11972,7 +11796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 331.47 36.83 0)
 			(effects
 				(font
@@ -12393,7 +12217,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9edd64c1-42c5-4b44-a2e6-44cbb5fca20c")
-		(property "Reference" "C9"
+		(property "Reference" "Crgb13"
 			(at 348.742 62.484 0)
 			(effects
 				(font
@@ -12445,7 +12269,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C9")
+					(reference "Crgb13")
 					(unit 1)
 				)
 			)
@@ -12840,7 +12664,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad963827-cdc3-4a56-931a-d0f1bd3ac393")
-		(property "Reference" "C2"
+		(property "Reference" "Crgb01"
 			(at 292.862 28.194 0)
 			(effects
 				(font
@@ -12892,7 +12716,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C2")
+					(reference "Crgb01")
 					(unit 1)
 				)
 			)
@@ -13281,7 +13105,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 303.53 36.83 0)
 			(effects
 				(font
@@ -13428,7 +13252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 275.59 105.41 0)
 			(effects
 				(font
@@ -13625,7 +13449,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "caeac80f-a696-482c-9a33-f9c6f12e02e7")
-		(property "Reference" "C13"
+		(property "Reference" "Crgb22"
 			(at 320.802 96.774 0)
 			(effects
 				(font
@@ -13677,7 +13501,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C13")
+					(reference "Crgb22")
 					(unit 1)
 				)
 			)
@@ -14069,7 +13893,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4dd2dc2-07b4-42a5-948c-71ed4b6f422f")
-		(property "Reference" "C11"
+		(property "Reference" "Crgb20"
 			(at 264.922 96.774 0)
 			(effects
 				(font
@@ -14121,7 +13945,7 @@
 		(instances
 			(project "SdraKb00"
 				(path "/7bf9908f-f50e-40b0-8b12-7fb833af844a"
-					(reference "C11")
+					(reference "Crgb20")
 					(unit 1)
 				)
 			)
@@ -14153,7 +13977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 359.41 105.41 0)
 			(effects
 				(font
@@ -15505,7 +15329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "marbastlib-mx:LED_MX_6028R"
+		(property "Footprint" "marbastlib-mx:LED_MX_6028R-ROT"
 			(at 303.53 105.41 0)
 			(effects
 				(font

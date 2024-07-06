@@ -1,11 +1,11 @@
 # SdraKb00
 
-11 keys custom mechanical keyboard with rotary encoder.
+11 keys hot-swap macropad with rotary encoder.
 
 ## Features
 
 - 11 keys
-- rotary encoder
+- Rotary encoder
 - AtMega32U4 MCU
 - Per-key RGB led for backlighting
 - USB-C connector
@@ -19,3 +19,9 @@
 ## Schematic
 
 ![schematic](/img/schematic.png)
+
+
+## PCB
+
+![pcb_front](img/SdraKb00_front.png)
+![pcb_back](img/SdraKb00_back.png)

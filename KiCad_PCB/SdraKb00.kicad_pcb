@@ -1063,7 +1063,7 @@
 		(at 128.071337 89.025381 90)
 		(descr "Alps rotary encoder, EC11E/EC11N with switch, vertical shaft")
 		(tags "rotary encoder")
-		(property "Reference" "SW03"
+		(property "Reference" "SW03_cutout"
 			(at 5.75 -7 -90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -2049,7 +2049,7 @@
 		(at 137.571587 63.5)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
-		(property "Reference" "H2"
+		(property "Reference" "H6"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3176,7 +3176,7 @@
 		(at 137.571587 136.499881)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
-		(property "Reference" "H4"
+		(property "Reference" "H8"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3286,7 +3286,7 @@
 		(at 61.468 63.5)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
-		(property "Reference" "H3"
+		(property "Reference" "H7"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -3397,7 +3397,7 @@
 		(at 61.498587 136.499881)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
-		(property "Reference" "H1"
+		(property "Reference" "H5"
 			(at 0 -4.2 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -5733,7 +5733,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -5755,7 +5755,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -6035,7 +6035,7 @@
 		(uuid "070cccb7-e52f-4f97-91c8-479be4f56f80")
 		(at 90.010087 88.906631 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW01_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6185,7 +6185,7 @@
 		(uuid "074ac5a2-87f4-4366-887c-2f2cd7f2deb0")
 		(at 109.093 88.9 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW02_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -6884,7 +6884,7 @@
 		(uuid "0b4b23a5-0b31-4136-a4a4-87bc10d75bc4")
 		(at 109.093 127 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW22_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -7253,7 +7253,7 @@
 		(uuid "1dd4e5c4-1f34-4195-bcf6-1e7c9a4e0bf1")
 		(at 128.143 127 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW23_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -7609,7 +7609,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712541 0.814065)
+			(mid 1.712534 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -7631,7 +7631,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712538 -0.814067)
+			(mid 1.712537 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -8130,7 +8130,7 @@
 		(uuid "27e67a35-75d6-4ea6-8b77-08d6b649477c")
 		(at 109.093 107.95 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW12_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -8486,7 +8486,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -8508,7 +8508,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -10388,7 +10388,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712541 0.814065)
+			(mid 1.712534 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -10410,7 +10410,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712538 -0.814067)
+			(mid 1.712537 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -13461,7 +13461,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -13483,7 +13483,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -13763,7 +13763,7 @@
 		(uuid "5b7abaa6-db66-4da1-8ac1-7c4407797a93")
 		(at 70.993 107.95 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW10_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -15941,7 +15941,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -15963,7 +15963,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -16572,7 +16572,7 @@
 		(uuid "71e4e477-454c-4d8a-9f3c-d21bcaf74c31")
 		(at 90.043 127 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW21_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -20387,7 +20387,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -20409,7 +20409,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -21127,7 +21127,7 @@
 		(uuid "95cf05e4-40f6-4080-80d9-f230d9c41105")
 		(at 128.143 107.95 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW13_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -21935,7 +21935,7 @@
 		(uuid "a9f728ba-292c-4cf0-8bc7-f95158ceef78")
 		(at 70.993 88.9 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW00_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -23402,7 +23402,7 @@
 		(uuid "bcb83de1-9b29-4d74-8686-b20213c4f2a9")
 		(at 90.043 107.95 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW11_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -24880,7 +24880,7 @@
 		(uuid "c5512129-9294-4451-94d5-1cf25bc8d7ea")
 		(at 70.993 127 180)
 		(descr "Footprint for Cherry MX style switches with Kailh hotswap socket")
-		(property "Reference" "SW01"
+		(property "Reference" "SW20_cutout"
 			(at -4.25 1.75 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -25236,7 +25236,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -25258,7 +25258,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -25744,7 +25744,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712541 0.814065)
+			(mid 1.712534 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -25766,7 +25766,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712538 -0.814067)
+			(mid 1.712537 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -26252,7 +26252,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -26274,7 +26274,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)
@@ -26760,7 +26760,7 @@
 		)
 		(fp_arc
 			(start 1.749484 0.919719)
-			(mid 1.712534 0.814065)
+			(mid 1.712541 0.814065)
 			(end 1.699999 0.702841)
 			(stroke
 				(width 0.1)
@@ -26782,7 +26782,7 @@
 		)
 		(fp_arc
 			(start 1.699999 -0.702844)
-			(mid 1.712537 -0.814067)
+			(mid 1.712538 -0.814067)
 			(end 1.749484 -0.919721)
 			(stroke
 				(width 0.1)

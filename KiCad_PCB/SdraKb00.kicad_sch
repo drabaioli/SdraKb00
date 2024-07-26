@@ -8501,7 +8501,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "640"
+		(property "Value" "150"
 			(at 247.65 147.3199 0)
 			(effects
 				(font
@@ -11362,7 +11362,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "RED 1.8V"
+		(property "Value" "RED 2V"
 			(at 250.698 152.4 0)
 			(effects
 				(font

@@ -35,3 +35,8 @@
 ## Switch plate
 
 ![switch_plate](img/SdraKb00_switch_plate.png)
+
+
+## Production files
+
+The [production/](production/) folder contains files required for manufacturing the board, namely the [SdraKb00.zip](production/SdraKb00.zip) is an export (JLCPCB accepted format) of the gerber files and the [BOM](production/SdraKb00_bom.csv). The BOM was edited to add links to JLCPCB parts. Both files can be used to get the PCB manufactured by [JLCPCB](https://jlcpcb.com/) with relative components.

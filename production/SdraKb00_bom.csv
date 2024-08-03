@@ -1,0 +1,22 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref,Comment,LCSC link
+1,R10,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,150,C410057,,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ6GEYJ151V_C410057.html
+2,SW03,ROT_Alps_EC11E-Switch,1,RotaryEncoder_Switch,C470742,,https://www.lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E09244BS_C470742.html
+3,D4,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,RED 2V,C125086,,https://www.lcsc.com/product-detail/span-style-background-color-ff0-LED-span-Indication-Discrete_Lite-On-LTST-C150KRKT_C125086.html
+4,J1,PinHeader_1x06_P2.00mm_Horizontal,1,AVR-ISP-6,C707009,,https://www.lcsc.com/product-detail/span-style-background-color-ff0-Pin-span-Headers_XKB-Connection-X4611WR-06I-C40D28_C707009.html
+5,"D20,D12,D01,D22,D03,D10,D02,D23,D21,D13,D00,D11",D_SOD-123,12,D_Small,C77978,,https://www.lcsc.com/product-detail/Switching-Diodes_MCC-Micro-Commercial-Components-1N4148W-TP_C77978.html
+5,"SW22,SW01,SW01,SW01,SW01,SW01,SW01,SW12,SW11,SW01,SW13,SW01,SW20,SW23,SW01,SW01,SW01,SW10,SW01,SW02,SW21,SW00",SW_MX_HS_CPG151101S11_1u,11,SW_Push_45deg,C2803348,,https://www.lcsc.com/product-detail/Mechanical-Keyboard-Shaft_Kailh-CPG151101S11_C2803348.html
+7,"RGB22,RGB01,RGB21,RGB00,RGB11,RGB20,RGB10,RGB13,RGB02,RGB12,RGB23",LED_MX_6028R-ROT,11,MX_SK6812MINI-E,C5149201,,https://www.lcsc.com/product-detail/RGB-LEDs-Built-in-IC_OPSCO-Optoelectronics-SK6812MINI-E_C5149201.html
+8,"Crgb23,C15,Crgb11,Crgb21,C4,Crgb00,Crgb13,Crgb22,C5,Crgb12,Crgb10,Crgb20,Crgb02,C17,Crgb01,C16",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,16,0.1uF,C730460,,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B104MBFNNNE_C730460.html
+9,"C20,C19",C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,22pF,C472837,,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21C220JB61PNC_C472837.html
+10,"R6,R7",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,22,C413152,,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ6GEYJ220V_C413152.html
+11,F1,Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,500mA,C883126,,https://www.lcsc.com/product-detail/Resettable-Fuses_BHFUSE-BSMD1206-050-30V_C883126.html
+12,"R8,R9",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,5.1k,C230649,,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ6GEYJ512V_C230649.html
+13,"R5,R4,R2,R3",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,4,10k,C180849,,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ6GEYJ103V_C180849.html
+14,C10,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,1uF,C2798196,,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B105MBFNNNE_C2798196.html
+15,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,1,16MHz,C5380579,,https://www.lcsc.com/product-detail/Crystals_JGHC-S3216000222080C3_C5380579.html
+16,C18,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,10uF,C95841,,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B106KOQNNNE_C95841.html
+17,SW_rst1,SW_SPST_SKQG_WithStem,1,Reset_SW,C116647,,https://www.lcsc.com/product-detail/Tactile-Switches_ALPSALPINE-SKQGADE010_C116647.html
+18,R1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,300,C413174,,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ6GEYJ301V_C413174.html
+19,U1,TQFP-44_10x10mm_P0.8mm,1,ATmega32U4-A,C44854,,https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_Microchip-Tech-ATMEGA32U4-AU_C44854.html
+20,USB1,HRO-TYPE-C-31-M-12-HandSoldering,1,HRO-TYPE-C-31-M-12,C165948,,https://www.lcsc.com/product-detail/USB-Type-C_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html
+21,U2,SOT-143_Handsoldering,1,PRTR5V0U2X,C5375321,,https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_Slkor-SLKORMICRO-Elec-PRTR5V0U2X_C5375321.html

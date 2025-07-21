@@ -2,7 +2,7 @@
 
 12 keys hot-swap macropad with rotary encoder.
 
-[![Watch the video](https://img.youtube.com/vi/uPEhIp7Z-5M/maxresdefault.jpg)](https://www.youtube.com/watch?v=uPEhIp7Z-5M)
+[![Watch the video](img/youtube_demo_thumbnail.jpg)](https://www.youtube.com/watch?v=uPEhIp7Z-5M)
 
 
 ## Assembled images
